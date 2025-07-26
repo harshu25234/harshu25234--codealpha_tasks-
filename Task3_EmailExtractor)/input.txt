@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Hey! Some random emails: test.mail@gmail.com, hello_world@yahoo.in, admin@codealpha.tech!
 Ignore these for now, but use them later 😅
 Invalid: justtext@ or email@.com
+=======
+Hey! Some random emails: test.mail@gmail.com, hello_world@yahoo.in, admin@codealpha.tech!
+Ignore these for now, but use them later 😅
+Invalid: justtext@ or email@.com
+>>>>>>> eacc05da6c5b9b92cebe900433b6eefa79924163
