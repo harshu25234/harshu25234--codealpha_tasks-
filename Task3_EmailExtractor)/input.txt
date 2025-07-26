@@ -1,0 +1,3 @@
+Hey! Some random emails: test.mail@gmail.com, hello_world@yahoo.in, admin@codealpha.tech!
+Ignore these for now, but use them later 😅
+Invalid: justtext@ or email@.com
